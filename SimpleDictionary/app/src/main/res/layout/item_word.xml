@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="#EDE7F6"
+    android:layout_marginBottom="8dp"
+    tools:ignore="ExtraText">
+
+
+
+    <TextView
+        android:id="@+id/txtWord"
+        android:text="Word"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#1F1F1F"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:id="@+id/txtMeaning"
+        android:text="Meaning"
+        android:textSize="15sp"
+        android:textColor="#666666"
+        android:layout_marginTop="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <View
+        android:layout_width="40dp"
+        android:layout_height="2dp"
+        android:background="#6C63FF"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"/>
+
+</LinearLayout>
+
+
