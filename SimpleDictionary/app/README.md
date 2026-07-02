@@ -39,10 +39,6 @@ XML Layout files
 Open the project in Android Studio
 Click on Run ▶ button
 Choose an Emulator or a real device
-📝 Note
-
-This project was developed as part of an Android course assignment.
-It demonstrates the basics of working with lists and navigation between activities.
 
 safaa yasser jaber
 2301215983
