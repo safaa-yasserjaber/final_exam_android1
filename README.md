@@ -36,10 +36,6 @@ WordAdapter
 WordItem
 XML Layout files
 
-📝 Note
-
-This project was developed as part of an Android course assignment.
-It demonstrates the basics of working with lists and navigation between activities.
 safaa yasser jaber
 
-سسسق
+
