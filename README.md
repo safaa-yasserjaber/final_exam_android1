@@ -36,6 +36,11 @@ WordAdapter
 WordItem
 XML Layout files
 
+///////////////
+Demo Video:
+https://drive.google.com/file/d/16YjLyJEbeq5lfHjzHH4HbnALmx7b4bKb/view?usp=sharing
+
+
 safaa yasser jaber
 
 
